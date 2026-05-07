@@ -44,6 +44,7 @@ class heap{
           swap(arr[i], arr[rightindx]);
           i = rightindx;
         }
+        
         else 
           return;
       }
